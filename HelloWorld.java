@@ -4,6 +4,7 @@ public class HelloWorld {
 		System.out.println("Good Morning");
 		System.out.println("Good Afternoon");
 		System.out.println("Good Night");
-		System.out.println("Hi World");
+    System.out.println("Hi World");
+		System.out.println("Bye World");
 	}
 }
